@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Click Mantra | Professional Video Production</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- Header & Navigation -->
+<header>
+<div class="logo">Click Mantra</div>
+<nav>
+<ul>
+<li><a href="#home">Home</a></li>
+<li><a href="#services">Services</a></li>
+<li><a href="#portfolio">Portfolio</a></li>
+<li><a href="#contact">Contact</a></li>
+<!-- Aa button tamari 5TB Drive link mate che -->
+<li><a href="#" class="client-btn">Client Login</a></li> 
+</ul>
+</nav>
+</header>
+
+<!-- Hero Section -->
+<section id="home" class="hero">
+<div class="hero-content">
+<h1>Cinematic Video Shooting & Editing</h1>
+<p>Capturing your best moments with professional precision.</p>
+<a href="#portfolio" class="btn">View Our Work</a>
+</div>
+</section>
+
+<!-- Services Section -->
+<section id="services">
+<h2>Our Services</h2>
+<div class="services-container">
+<div class="service-box">
+<h3>Video Shooting</h3>
+<p>High-quality event and commercial video shooting.</p>
+</div>
+<div class="service-box">
+<h3>Video Editing</h3>
+<p>Professional color grading, transitions, and cinematic edits.</p>
+</div>
+<div class="service-box">
+<h3>Post-Production</h3>
+<p>Audio mixing and final touch-ups for a perfect output.</p>
+</div>
+</div>
+</section>
+
+<!-- Footer -->
+<footer id="contact">
+<h2>Let's Work Together</h2>
+<p>Email: contact@clickmantra.com | Location: Surat, Gujarat</p>
+<p>&copy; 2026 Click Mantra. All rights reserved.</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
